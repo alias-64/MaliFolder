@@ -1,4 +1,4 @@
-<h1 align="center">slm <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Ben Selo 👩‍💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> slm 👩‍💻</h1>
 <br>
 
 Hala öğrenciyim okuyom işte öyle
