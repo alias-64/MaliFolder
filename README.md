@@ -1,8 +1,7 @@
-<h1 align="center">SA AS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Ben Selo 👩‍💻</h1>
+<h1 align="center">slm <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Ben Selo 👩‍💻</h1>
 <br>
 
 Hala öğrenciyim okuyom işte öyle
-Arada giriyom bişiler deniyom
 
 <br>
 
