@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> slm 👩‍💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> slm</h1>
 <br>
 
 Hala öğrenciyim okuyom işte öyle
@@ -11,7 +11,7 @@ Hala öğrenciyim okuyom işte öyle
 - 🌱 maaş olarak tavuk dürüm döner ile ödeme alabilirim
 - 👯 geleceğin çaycısıyım
 - 📫 bana şu mailden ulaşabilirsin: maliciousfolder@gmail.com
-- ⚡ ek bilgi: siber güvenlik fln bişeyler deniyorum öyle
+- ⚡ ek ve gereksiz bilgi: siber güvenliğe ilgim var
 
 <br>
 
