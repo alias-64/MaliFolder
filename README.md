@@ -1,13 +1,13 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> slm</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> slm    </h1>
 <br>
 
-Hala öğrenciyim okuyom işte öyle
+Hala öğrenciyim okuyorum öyle
 
 <br>
 
-<img align="right" alt="GIF" src="https://i.hizliresim.com/6lo7x11.gif" width="500" height="320" />
+<img align="right" alt="PNG" src="https://i.hizliresim.com/4verso5.jpg" width="500" height="320" />
 
-- ✍ vasıfsızım
+- ✍ vasıfsızım (resimdeki benim)
 - 🌱 maaş olarak tavuk dürüm döner ile ödeme alabilirim
 - 👯 geleceğin çaycısıyım
 - 📫 bana şu mailden ulaşabilirsin: maliciousfolder@gmail.com
