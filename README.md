@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> slm    </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" slm    </h1>
 <br>
 
 Hala öğrenciyim okuyorum öyle
