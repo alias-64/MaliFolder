@@ -48,7 +48,7 @@ Hala öğrenciyim okuyorum öyle
 <br>
 
 
-### Sosyal Kullanmıyorum Bunlar Güzel Duruyo Kalsın böyle:
+### Sosyal Medya Kullanmıyorum Bunlar Güzel Duruyo Kalsın Böyle:
 <a href="https://www.facebook.com/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
