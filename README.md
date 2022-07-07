@@ -10,13 +10,13 @@ Hala öğrenciyim okuyorum öyle
 - ✍ vasıfsızım (resimdeki benim)
 - 🌱 maaş olarak tavuk dürüm döner ile ödeme alabilirim
 - 👯 geleceğin çaycısıyım
-- 📫 bana şu mailden ulaşabilirsin: maliciousfolder@gmail.com
+- 📫 bana şu mailden ulaşabilirsin: 0x65536@protonmail.com
 - ⚡ ek ve gereksiz bilgi: siber güvenliğe ilgim var
 
 <br>
 
 
-### 🚀 > Yeteneklerim (aslında çoğu yalan havalı dursun diye koydum):
+### 🚀 > Yeteneklerim (aslında çoğu yalan güzel dursun diye koydum):
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -33,7 +33,7 @@ Hala öğrenciyim okuyorum öyle
 
 <br>
 
-##### Şu an müzik dinliyom:
+##### Müzik dinliyorum:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=98lh4tumvtnsyl5v7jxdbslkz&cover_image=true&theme=natemoo-re&bar_color=2eb8b5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
