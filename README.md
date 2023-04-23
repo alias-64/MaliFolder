@@ -5,11 +5,11 @@ Hala öğrenciyim okuyorum öyle
 
 <br>
 
-- ✍ vasıfsızım (resimdeki benim)
+- ✍ vasıfsızım 
 - 🌱 maaş olarak tavuk dürüm döner ile ödeme alabilirim
 - 👯 geleceğin çaycısıyım
 - 📫 bana şu mailden ulaşabilirsin: 0x65536@protonmail.com
-- ⚡ ek ve gereksiz bilgi: siber güvenliğe ilgim var
+- ⚡ ek ve gereksiz bilgi: siber güvenliğe ilgim var (arada derede kodlama falan)
 
 <br>
 
