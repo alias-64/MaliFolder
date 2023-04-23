@@ -5,8 +5,6 @@ Hala öğrenciyim okuyorum öyle
 
 <br>
 
-<img align="right" alt="PNG" src="https://i.hizliresim.com/4verso5.jpg" width="500" height="320" />
-
 - ✍ vasıfsızım (resimdeki benim)
 - 🌱 maaş olarak tavuk dürüm döner ile ödeme alabilirim
 - 👯 geleceğin çaycısıyım
